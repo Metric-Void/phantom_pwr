@@ -1,4 +1,4 @@
-#Phantom Power Supply
+# Phantom Power Supply
 ## Description
 This is a standalone power supply for phantom power microphones. 48V Phantom power is "injected" into the wire to power the microphone, and the output can be directly sent to computers, phones, etc.
 
